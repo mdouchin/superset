@@ -11531,7 +11531,7 @@ msgstr "Valeurs de somme"
 
 #, fuzzy
 msgid "Summary"
-msgstr "Dimanche"
+msgstr "Total"
 
 #, fuzzy
 msgid "Sunburst Chart"
